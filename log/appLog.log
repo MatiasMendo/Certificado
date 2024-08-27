@@ -1,0 +1,2 @@
+[2024-08-27T12:04:59.773] INFO [DESKTOP-5QMOJVI] server-noss.js [g2pc7s5om0cmbnqw] [app.listen] server listen >> 192.168.100.207: 443
+[2024-08-27T12:18:49.619] INFO [DESKTOP-5QMOJVI] insertEPA.js [g2pc7s5om0cmtg2b] [/inicioEPA] Request from 192.168.100.207 [POST > /inicioEPA]: {}
